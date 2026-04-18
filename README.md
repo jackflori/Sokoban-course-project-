@@ -1,7 +1,6 @@
-# Sokoban-course-project-
+# Sokoban (15-112)
 Sokoban puzzle game with some fun additions for 15-112 final project
 
-'''
 Feature List:
 - Main Menu, Win/Lose Screen
 - Basic Sokoban Controls/Rules
@@ -19,4 +18,3 @@ Grading Shortcuts:
 3: Level 3
 4: Win Screen
 5: Lose Screen (hard mode)
-'''
