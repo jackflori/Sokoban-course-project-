@@ -1,5 +1,5 @@
 # Sokoban (15-112)
-Sokoban puzzle game with some fun additions for final project in 15-112. Utilized CMU Graphics’ model-view-controller framework 
+Sokoban puzzle game with some fun additions for final project in 15-112. Utilized CMU Graphics’ model-view-controller framework. 
 
 Feature List:
 - Main Menu, Win/Lose Screen
