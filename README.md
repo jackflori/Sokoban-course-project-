@@ -1,4 +1,4 @@
-# Sokoban (15-112)
+# Sokoban
 Sokoban puzzle game with some fun additions. Utilized CMU Graphics’ model-view-controller framework. 
 
 Feature List:
